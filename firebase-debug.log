@@ -1,0 +1,21 @@
+[debug] [2022-04-09T21:44:20.616Z] ----------------------------------------------------------------------
+[debug] [2022-04-09T21:44:20.618Z] Command:       /usr/local/Cellar/node/17.8.0/bin/node /usr/local/bin/firebase init
+[debug] [2022-04-09T21:44:20.618Z] CLI Version:   10.5.0
+[debug] [2022-04-09T21:44:20.618Z] Platform:      darwin
+[debug] [2022-04-09T21:44:20.618Z] Node Version:  v17.8.0
+[debug] [2022-04-09T21:44:20.620Z] Time:          Sat Apr 09 2022 14:44:20 GMT-0700 (Pacific Daylight Time)
+[debug] [2022-04-09T21:44:20.620Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-04-09T21:44:20.626Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-04-09T21:44:20.626Z] > authorizing via signed-in user (3salaz.dev@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/work/Documents/Edu/classes/gh
+
